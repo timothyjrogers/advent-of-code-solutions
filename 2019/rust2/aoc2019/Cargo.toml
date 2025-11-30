@@ -1,0 +1,10 @@
+[package]
+name = "aoc2019"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+day1 = { path = "../day1" }
+day2 = { path = "../day2" }
+day3 = { path = "../day3" }
+day4 = { path = "../day4" }
